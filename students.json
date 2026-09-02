@@ -1,0 +1,202 @@
+{
+    "s001": {
+        "roll": 1,
+        "name": "Alice Johnson",
+        "age": 15,
+        "email": "alice.johnson@example.com",
+        "class": "Grade 10",
+        "math marks": 72,
+        "english marks": 88,
+        "science marks": 81
+    },
+    "s002": {
+        "roll": 2,
+        "name": "Benjamin Smith",
+        "age": 16,
+        "email": "benjamin.smith@example.com",
+        "class": "Grade 10",
+        "math marks": 58,
+        "english marks": 74,
+        "science marks": 66
+    },
+    "s003": {
+        "roll": 3,
+        "name": "Charlotte Brown",
+        "age": 15,
+        "email": "charlotte.brown@example.com",
+        "class": "Grade 9",
+        "math marks": 77,
+        "english marks": 84,
+        "science marks": 68
+    },
+    "s004": {
+        "roll": 4,
+        "name": "Daniel Davis",
+        "age": 17,
+        "email": "daniel.davis@example.com",
+        "class": "Grade 11",
+        "math marks": 91,
+        "english marks": 86,
+        "science marks": 80
+    },
+    "s005": {
+        "roll": 5,
+        "name": "Ella Wilson",
+        "age": 16,
+        "email": "ella.wilson@example.com",
+        "class": "Grade 10",
+        "math marks": 63,
+        "english marks": 71,
+        "science marks": 69
+    },
+    "s006": {
+        "roll": 6,
+        "name": "Frank Moore",
+        "age": 15,
+        "email": "frank.moore@example.com",
+        "class": "Grade 9",
+        "math marks": 76,
+        "english marks": 79,
+        "science marks": 73
+    },
+    "s007": {
+        "roll": 7,
+        "name": "Grace Taylor",
+        "age": 16,
+        "email": "grace.taylor@example.com",
+        "class": "Grade 10",
+        "math marks": 88,
+        "english marks": 92,
+        "science marks": 90
+    },
+    "s008": {
+        "roll": 8,
+        "name": "Henry Anderson",
+        "age": 17,
+        "email": "henry.anderson@example.com",
+        "class": "Grade 11",
+        "math marks": 65,
+        "english marks": 82,
+        "science marks": 75
+    },
+    "s009": {
+        "roll": 9,
+        "name": "Isabella Thomas",
+        "age": 15,
+        "email": "isabella.thomas@example.com",
+        "class": "Grade 9",
+        "math marks": 90,
+        "english marks": 93,
+        "science marks": 87
+    },
+    "s010": {
+        "roll": 10,
+        "name": "Jack Martinez",
+        "age": 16,
+        "email": "jack.martinez@example.com",
+        "class": "Grade 10",
+        "math marks": 84,
+        "english marks": 62,
+        "science marks": 78
+    },
+    "s011": {
+        "roll": 11,
+        "name": "Katie Garcia",
+        "age": 17,
+        "email": "katie.garcia@example.com",
+        "class": "Grade 11",
+        "math marks": 59,
+        "english marks": 81,
+        "science marks": 70
+    },
+    "s012": {
+        "roll": 12,
+        "name": "Leo Robinson",
+        "age": 16,
+        "email": "leo.robinson@example.com",
+        "class": "Grade 10",
+        "math marks": 67,
+        "english marks": 83,
+        "science marks": 64
+    },
+    "s013": {
+        "roll": 13,
+        "name": "Mia Clark",
+        "age": 15,
+        "email": "mia.clark@example.com",
+        "class": "Grade 9",
+        "math marks": 86,
+        "english marks": 69,
+        "science marks": 89
+    },
+    "s014": {
+        "roll": 14,
+        "name": "Noah Lewis",
+        "age": 17,
+        "email": "noah.lewis@example.com",
+        "class": "Grade 11",
+        "math marks": 55,
+        "english marks": 77,
+        "science marks": 61
+    },
+    "s015": {
+        "roll": 15,
+        "name": "Olivia Walker",
+        "age": 16,
+        "email": "olivia.walker@example.com",
+        "class": "Grade 10",
+        "math marks": 94,
+        "english marks": 89,
+        "science marks": 92
+    },
+    "s016": {
+        "roll": 16,
+        "name": "Peter Hall",
+        "age": 15,
+        "email": "peter.hall@example.com",
+        "class": "Grade 9",
+        "math marks": 74,
+        "english marks": 67,
+        "science marks": 60
+    },
+    "s017": {
+        "roll": 17,
+        "name": "Quinn Allen",
+        "age": 16,
+        "email": "quinn.allen@example.com",
+        "class": "Grade 10",
+        "math marks": 87,
+        "english marks": 92,
+        "science marks": 83
+    },
+    "s018": {
+        "roll": 18,
+        "name": "Ruby Young",
+        "age": 17,
+        "email": "ruby.young@example.com",
+        "class": "Grade 11",
+        "math marks": 49,
+        "english marks": 72,
+        "science marks": 58
+    },
+    "s019": {
+        "roll": 19,
+        "name": "Samuel King",
+        "age": 15,
+        "email": "samuel.king@example.com",
+        "class": "Grade 9",
+        "math marks": 78,
+        "english marks": 80,
+        "science marks": 71
+    },
+    "s020": {
+        "roll": 20,
+        "name": "Tara Wright",
+        "age": 16,
+        "email": "tara.wright@example.com",
+        "class": "Grade 10",
+        "math marks": 95,
+        "english marks": 88,
+        "science marks": 90
+    }
+}
