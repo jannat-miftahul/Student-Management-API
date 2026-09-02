@@ -1,5 +1,6 @@
-from fastapi import FastAPI, Path, HTTPException, Query
+from fastapi import FastAPI, Path, HTTPException, Query, Body
 import json
+from fastapi.responses import JSONResponse
 
 app = FastAPI()
 
@@ -59,3 +60,17 @@ def view_sorted_students(sorted_by: str = Query(..., description="Sort on the ba
         sorted_data = list(data.values())
         sorted_data.sort(key= lambda x: x[sorted_by], reverse=True)
         return sorted_data
+
+
+@app.post("/create")
+def create_student(student: dict = Body()):
+
+    data = load_data()
+
+    student_id = student["id"]
+    data[student_id] = student
+    del data[student_id]["id"]
+
+    save_data(data)
+
+    return "Successfully student created"
